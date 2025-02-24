@@ -8,9 +8,13 @@ Dataset
 The dataset used for this analysis contains transaction details, customer demographics, and product categories. The data was preprocessed and analyzed to uncover key trends in sales and customer behavior.
 
 Libraries Used
+
 numpy
+
 pandas
+
 matplotlib
+
 seaborn
 
 Data Preprocessing

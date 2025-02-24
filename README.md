@@ -18,6 +18,7 @@ matplotlib
 seaborn
 
 Data Preprocessing
+
 Imported the dataset and examined its structure.
 Removed unnecessary columns (Status, unnamed1).
 Checked and handled missing values.
